@@ -14,7 +14,7 @@ or [link 2](https://www.amazon.com/dp/B0FTTQNXKG)
 
 ## 📂 Repository Structure
 
-The code is organized by Volume and Chapter. Each directory contains the `main.py` scripts, `requirements.txt` specific to that chapter, and any necessary asset files.
+The code is organized by Volume and Chapter. 
 
 ```text
 .
