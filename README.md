@@ -18,11 +18,11 @@ The code is organized by Volume and Chapter. Each directory contains the `main.p
 
 ```text
 .
-├── Volume_1_Foundations/
-├── Volume_2_Data_Structures/
-├── Volume_3_Web_Development/
-├── Volume_4_Advanced_AI/
-└── Volume_5_Gemini_3_Agentic/  <-- 🆕 NEW RELEASE
+├── Book_01.zip
+├── Book_02.zip
+├── Book_03.zip
+├── Book_04.zip
+└── Book_05.zip  <-- 🆕 NEW RELEASE
 ```
 
 ---
