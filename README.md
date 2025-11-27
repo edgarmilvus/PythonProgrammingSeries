@@ -1,0 +1,215 @@
+# 🐍 The Python Programming Series
+### Official Code Repository
+
+[![Amazon Series](https://img.shields.io/badge/Amazon-Buy_The_Series-orange?style=for-the-badge&logo=amazon)](https://tinyurl.com/PrythomProgrammingSeries)
+[![Python Version](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+Welcome to the official repository for the **Python Programming Series** by **Edgar Milvus**.
+This repository contains all the source code, exercises, solution files, and architectural diagrams found in the books.
+
+**📚 [Get the Books on Amazon](https://tinyurl.com/PrythomProgrammingSeries)**
+or [link 2](https://www.amazon.com/dp/B0FTTQNXKG) 
+---
+
+## 📂 Repository Structure
+
+The code is organized by Volume and Chapter. Each directory contains the `main.py` scripts, `requirements.txt` specific to that chapter, and any necessary asset files.
+
+```text
+.
+├── Volume_1_Foundations/
+├── Volume_2_Data_Structures/
+├── Volume_3_Web_Development/
+├── Volume_4_Advanced_AI/
+└── Volume_5_Gemini_3_Agentic/  <-- 🆕 NEW RELEASE
+```
+
+---
+
+## 📖 The Volumes
+
+Click on the arrows below to expand the Table of Contents for each volume.
+
+<details>
+<summary><b>📘 Volume 1: The Foundations of Python</b></summary>
+<br>
+<i>From "Hello World" to your first interactive program. The absolute basics.</i>
+
+*   **Part 1: First Contact - Core Concepts**
+    *   Chapter 1: Speaking to the Machine - The 'print()' Function
+    *   Chapter 2: Storing Information - Variables and Assignment
+    *   Chapter 3: The Nature of Data - Strings, Integers, Floats
+    *   Chapter 4: The Two States of Being - Booleans
+    *   Chapter 5: Making Sense of Code - Comments & Zen of Python
+*   **Part 2: The Programmer's Toolkit**
+    *   Chapter 6: The Digital Calculator - Arithmetic Operators
+    *   Chapter 7: Asking Questions - Comparison Operators
+    *   Chapter 8: Combining Logic - 'and', 'or', 'not'
+    *   Chapter 9: The Power of Strings - Slicing and Formatting
+    *   Chapter 10: Changing Forms - Type Conversion
+*   **Part 3: Controlling the Flow**
+    *   Chapter 11: The Fork in the Road - 'if' and 'else'
+    *   Chapter 12: Handling Multiple Paths - 'elif'
+    *   Chapter 13: The Repeating Task - 'while' Loops
+    *   Chapter 14: Iterating Through Worlds - 'for' Loops
+    *   Chapter 15: Breaking and Continuing
+*   **Part 4: Building Blocks of Code**
+    *   Chapter 16: Creating Reusable Logic - Functions
+    *   Chapter 17: Passing Information - Arguments & Parameters
+    *   Chapter 18: Getting Results - The 'return' Statement
+    *   Chapter 19: The Boundaries of Knowledge - Scope
+    *   Chapter 20: **Capstone:** Interactive Guessing Game
+</details>
+
+<details>
+<summary><b>📗 Volume 2: Data Structures and the Standard Library</b></summary>
+<br>
+<i>Mastering lists, dictionaries, and the vast Python Standard Library.</i>
+
+*   **Part 1: The Four Great Collections**
+    *   Chapter 1: The Ordered Sequence - Lists
+    *   Chapter 2: Advanced List Manipulation
+    *   Chapter 3: The Immutable Sequence - Tuples
+    *   Chapter 4: The Key-Value Universe - Dictionaries
+    *   Chapter 5: The World of Uniques - Sets
+*   **Part 2: Pythonic Power**
+    *   Chapter 6: List Comprehensions
+    *   Chapter 7: Generators and 'yield'
+    *   Chapter 8: Dictionary Comprehensions
+    *   Chapter 9: Anonymous Functions (Lambda)
+    *   Chapter 10: Error Handling (try/except)
+*   **Part 3: The Standard Library**
+    *   Chapter 11: System Interaction (os, sys)
+    *   Chapter 12: Navigating Filesystem (os.walk)
+    *   Chapter 13: Time & Date (datetime)
+    *   Chapter 14: Math & Numbers
+    *   Chapter 15: Supercharged Collections (Counter, deque)
+*   **Part 4: Interacting with the World**
+    *   Chapter 16: File I/O
+    *   Chapter 17: Binary Data & Pickling
+    *   Chapter 18: JSON Data
+    *   Chapter 19: CSV & Tabular Data
+    *   Chapter 20: **Capstone:** Contact Management System
+</details>
+
+<details>
+<summary><b>📙 Volume 3: Web Development with Python (Flask)</b></summary>
+<br>
+<i>Building dynamic websites, APIs, and database-driven applications.</i>
+
+*   **Part 1: Foundations of the Web**
+    *   Chapter 1: HTTP & First Web Server
+    *   Chapter 2: Routing & Views
+    *   Chapter 3: GET vs POST
+    *   Chapter 4: Jinja Templates
+    *   Chapter 5: Template Inheritance
+*   **Part 2: Data-Driven Apps (SQLAlchemy)**
+    *   Chapter 6: Introduction to ORMs
+    *   Chapter 7: Creating Models
+    *   Chapter 8: Sessions & Tables
+    *   Chapter 9: CRUD Operations
+    *   Chapter 10: Database Migrations (Alembic)
+*   **Part 3: Scalability & Architecture**
+    *   Chapter 11: Blueprints & App Factories
+    *   Chapter 12: Forms & Validation
+    *   Chapter 13: Authentication & Cookies
+    *   Chapter 14: Static Files (CSS/JS)
+    *   Chapter 15: RESTful APIs
+*   **Part 4: Production**
+    *   Chapter 16: Testing (PyTest)
+    *   Chapter 17: Security (XSS, CSRF, SQLi)
+    *   Chapter 18: Config Management
+    *   Chapter 19: Deployment (Gunicorn/Nginx)
+    *   Chapter 20: **Capstone:** Blogging Platform API
+</details>
+
+<details>
+<summary><b>📕 Volume 4: Advanced Python & AI Integration</b></summary>
+<br>
+<i>Metaprogramming, AsyncIO, and building AI Agents with LangChain.</i>
+
+*   **Part 1: The Architecture of Python**
+    *   Chapter 1: Object Model & MRO
+    *   Chapter 2: Metaclasses
+    *   Chapter 3: Descriptors
+    *   Chapter 4: Decorators
+    *   Chapter 5: Closures
+*   **Part 2: Concurrency**
+    *   Chapter 6: The asyncio Event Loop
+    *   Chapter 7: async/await
+    *   Chapter 8: structured concurrency
+    *   Chapter 9: aiohttp
+    *   Chapter 10: Profiling & Cython
+*   **Part 3: The AI Gateway (LangChain)**
+    *   Chapter 11: Orchestration Frameworks
+    *   Chapter 12: LLMChain & Prompts
+    *   Chapter 13: Pydantic Output Parsers
+    *   Chapter 14: Router Chains
+    *   Chapter 15: Conversational Memory
+*   **Part 4: Intelligent Agents**
+    *   Chapter 16: The ReAct Framework
+    *   Chapter 17: Custom Tools
+    *   Chapter 18: RAG Theory
+    *   Chapter 19: Vector Stores
+    *   Chapter 20: **Capstone:** Research Agent with RAG
+</details>
+
+<details open>
+<summary><b>🚀 Volume 5: Google Gemini 3 Programming (NEW)</b></summary>
+<br>
+<i><b>Status: Bleeding Edge (Preview Models).</b> Covers Nano Banana Pro, Veo 3.1, Lyria, and Computer Use.</i>
+
+*   **Part 1: The Thinking Engine**
+    *   Chapter 1: Setup & Thinking Mode
+    *   Chapter 2: Thought Signatures
+    *   Chapter 3: Chain of Thought vs Native Reasoning
+    *   Chapter 4: Long Context Management
+    *   Chapter 5: Structured Output (JSON/Pydantic)
+*   **Part 2: The Creative Studio**
+    *   Chapter 6: Image Gen (Nano Banana Pro)
+    *   Chapter 7: Video Gen (Veo 3.1)
+    *   Chapter 8: Music Gen (Lyria RealTime)
+    *   Chapter 9: Speech & Voice Cloning
+    *   Chapter 10: Audio Understanding
+*   **Part 3: Multimodal Intelligence**
+    *   Chapter 11: Video Analysis
+    *   Chapter 12: Document Processing (PDF)
+    *   Chapter 13: Files API & RAG
+    *   Chapter 14: Live Web Reader
+    *   Chapter 15: Context Caching
+    *   Chapter 16: Batch API
+*   **Part 4: The Tool Ecosystem**
+    *   Chapter 17: Tools Overview
+    *   Chapter 18: Function Calling
+    *   Chapter 19: Code Execution (Sandbox)
+    *   Chapter 20: Google Search Grounding
+    *   Chapter 21: Maps Grounding
+    *   Chapter 22: File Search (Internal KB)
+    *   Chapter 23: **Computer Use (Desktop Control)**
+    *   Chapter 24: Live API (WebSockets)
+*   **Part 5: Production & Robotics**
+    *   Chapter 25: Safety & Moderation
+    *   Chapter 26: Model Selection & Economics
+    *   Chapter 27: Error Handling
+    *   Chapter 28: Robotics (RT-2)
+    *   Chapter 29: **Capstone A:** 'Jarvis' Desktop Agent
+    *   Chapter 30: **Capstone B:** Autonomous Research Swarm
+</details>
+
+---
+
+## ⚠️ Note on Volume 5 (Bleeding Edge)
+
+Volume 5 targets the **Gemini 3 Preview** ecosystem.
+Some models referenced (e.g., `gemini-3-preview`, `nano-banana-pro`) are in active development.
+*   **Updates:** Check this repository frequently for `addendum_vX.pdf` or updated scripts as Google releases stable API tags.
+*   **Requirements:** This volume requires Python 3.11+ and a valid Google Cloud Project with the GenAI API enabled.
+
+## © Copyright
+
+**Copyright © 2025 by Edgar Milvus.**
+All rights reserved. The code in this repository is for educational purposes.
+
+[Visit the Amazon Series Page](https://tinyurl.com/PythonProgrammingSeries) 
+or [link 2](https://www.amazon.com/dp/B0FTTQNXKG) 
