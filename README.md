@@ -16,15 +16,6 @@ or [link 2](https://www.amazon.com/dp/B0FTTQNXKG)
 
 The code is organized by Volume and Chapter. 
 
-```text
-.
-├── Book_01.zip
-├── Book_02.zip
-├── Book_03.zip
-├── Book_04.zip
-└── Book_05.zip  <-- 🆕 NEW RELEASE
-```
-
 ---
 
 ## 📖 The Volumes
