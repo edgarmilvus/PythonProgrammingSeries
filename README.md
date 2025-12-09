@@ -190,7 +190,7 @@ Click on the arrows below to expand the Table of Contents for each volume.
 
 
 <details open>
-<summary><b>🤖 Book 6: Python AI Autonomous Agents</b></summary>
+<summary><b>🤖 Volume 6: Python AI Autonomous Agents</b></summary>
 <br>
 <i>Focus: Architecting Intelligence.</b> Covers CrewAI, LangGraph, Vector Memory, Swarms, and Production Deployment.</i>
 
