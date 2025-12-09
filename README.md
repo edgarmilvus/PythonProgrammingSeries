@@ -149,7 +149,7 @@ Click on the arrows below to expand the Table of Contents for each volume.
 <details open>
 <summary><b>🚀 Volume 5: Google Gemini 3 Programming (NEW)</b></summary>
 <br>
-<i><b>Status: Bleeding Edge (Preview Models).</b> Covers Nano Banana Pro, Veo 3.1, Lyria, and Computer Use.</i>
+<i>Status: Bleeding Edge (Preview Models).</b> Covers Nano Banana Pro, Veo 3.1, Lyria, and Computer Use.</i>
 
 *   **Part 1: The Thinking Engine**
     *   Chapter 1: Setup & Thinking Mode
@@ -192,7 +192,7 @@ Click on the arrows below to expand the Table of Contents for each volume.
 <details open>
 <summary><b>🤖 Book 6: Python AI Autonomous Agents</b></summary>
 <br>
-<i><b>Focus: Architecting Intelligence.</b> Covers CrewAI, LangGraph, Vector Memory, Swarms, and Production Deployment.</i>
+<i>Focus: Architecting Intelligence.</b> Covers CrewAI, LangGraph, Vector Memory, Swarms, and Production Deployment.</i>
 
 *   **Part 1: The Rise of the Agents - From Chatbots to Workers**
     *   Chapter 1: Beyond the Prompt - What Are Autonomous Agents?
