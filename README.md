@@ -188,6 +188,39 @@ Click on the arrows below to expand the Table of Contents for each volume.
     *   Chapter 30: **Capstone B:** Autonomous Research Swarm
 </details>
 
+
+<details open>
+<summary><b>🤖 Book 6: Python AI Autonomous Agents</b></summary>
+<br>
+<i><b>Focus: Architecting Intelligence.</b> Covers CrewAI, LangGraph, Vector Memory, Swarms, and Production Deployment.</i>
+
+*   **Part 1: The Rise of the Agents - From Chatbots to Workers**
+    *   Chapter 1: Beyond the Prompt - What Are Autonomous Agents?
+    *   Chapter 2: The Cognitive Architecture - Memory, Planning, and Tools
+    *   Chapter 3: The Tool Belt - Connecting LLMs to APIs, Files, and the Web
+    *   Chapter 4: Reasoning Loops - Chain of Thought (CoT) and ReAct Patterns
+    *   Chapter 5: Building Your First Single Agent - A Research Assistant
+*   **Part 2: Orchestrating Swarms - Multi-Agent Systems**
+    *   Chapter 6: Introduction to Multi-Agent Systems (MAS) - Manager vs. Worker
+    *   Chapter 7: Using CrewAI - Role-Playing Agents and Task Delegation
+    *   Chapter 8: Using LangGraph - Building Cyclic State Graphs for Complex Logic
+    *   Chapter 9: Consensus and Critique - How Agents Review Each Other's Work
+    *   Chapter 10: Handling State and History - Long-term Persistence for Agents
+*   **Part 3: Advanced Capabilities - Memory and Learning**
+    *   Chapter 11: Vector Memory - RAG for Agents (The Hippocampus)
+    *   Chapter 12: Self-Correction - Implementing Reflection and Error Recovery
+    *   Chapter 13: Human-in-the-Loop - Approval Steps and Interruption Patterns
+    *   Chapter 14: Browser Agents - Automating the Web with Selenium and AI
+    *   Chapter 15: Coding Agents - Building an Agent That Writes and Tests Code
+*   **Part 4: Deployment and The Future - Production Agents**
+    *   Chapter 16: Tracing and Debugging - Observability with LangSmith
+    *   Chapter 17: Security for Agents - Preventing Prompt Injection and Rogue Loops
+    *   Chapter 18: Deploying Agents - API Wrappers and Asynchronous Queues
+    *   Chapter 19: The Economics of Agents - Token Cost Management and Optimization
+    *   Chapter 20: **The Capstone:** Building a 'Software Development Agency' Swarm
+</details>
+
+
 ---
 
 ## ⚠️ Note on Volume 5 (Bleeding Edge)
