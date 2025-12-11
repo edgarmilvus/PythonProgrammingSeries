@@ -182,6 +182,7 @@ Click on the arrows below to expand the Table of Contents for each volume.
 *   **Part 5: Production & Robotics**
     *   Chapter 25: Safety & Moderation
     *   Chapter 26: Model Selection & Economics
+    *   Chapter 26 Addendum: Advanced Model Selection Strategies and Production Economics
     *   Chapter 27: Error Handling
     *   Chapter 28: Robotics (RT-2)
     *   Chapter 29: **Capstone A:** 'Jarvis' Desktop Agent
