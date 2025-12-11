@@ -221,6 +221,68 @@ Click on the arrows below to expand the Table of Contents for each volume.
 </details>
 
 
+<details>
+<summary><b>📘 Book 7: Python AI Autonomous Agents</b></summary>
+<br>
+<i>From single agents to complex swarms. Building intelligent, autonomous systems in Python.</i>
+
+*   **Part 1: The Rise of the Agents - From Chatbots to Workers**
+    *   Chapter 1: Beyond the Prompt - What Are Autonomous Agents?
+    *   Chapter 2: The Cognitive Architecture - Memory, Planning, and Tools
+    *   Chapter 3: The Tool Belt - Connecting LLMs to APIs, Files, and the Web
+    *   Chapter 4: Reasoning Loops - Chain of Thought (CoT) and ReAct Patterns
+    *   Chapter 5: Building Your First Single Agent - A Research Assistant
+*   **Part 2: Orchestrating Swarms - Multi-Agent Systems**
+    *   Chapter 6: Introduction to Multi-Agent Systems (MAS) - Manager vs. Worker
+    *   Chapter 7: Using CrewAI - Role-Playing Agents and Task Delegation
+    *   Chapter 8: Using LangGraph - Building Cyclic State Graphs for Complex Logic
+    *   Chapter 9: Consensus and Critique - How Agents Review Each Other's Work
+    *   Chapter 10: Handling State and History - Long-term Persistence for Agents
+*   **Part 3: Advanced Capabilities - Memory and Learning**
+    *   Chapter 11: Vector Memory - RAG for Agents (The Hippocampus)
+    *   Chapter 12: Self-Correction - Implementing Reflection and Error Recovery
+    *   Chapter 13: Human-in-the-Loop - Approval Steps and Interruption Patterns
+    *   Chapter 14: Browser Agents - Automating the Web with Selenium and AI
+    *   Chapter 15: Coding Agents - Building an Agent That Writes and Tests Code
+*   **Part 4: Deployment and The Future - Production Agents**
+    *   Chapter 16: Tracing and Debugging - Observability with LangSmith
+    *   Chapter 17: Security for Agents - Preventing Prompt Injection and Rogue Loops
+    *   Chapter 18: Deploying Agents - API Wrappers and Asynchronous Queues
+    *   Chapter 19: The Economics of Agents - Token Cost Management and Optimization
+    *   Chapter 20: The Capstone - Building a 'Software Development Agency' Swarm
+</details>
+
+<details>
+<summary><b>📘 Book 8: Cloud-Native Python, DevOps & LLMOps</b></summary>
+<br>
+<i>Containerization, Kubernetes, and Serving AI Models at Scale.</i>
+
+*   **Part 1: The Container Revolution - Docker and Python**
+    *   Chapter 1: It Works on My Machine? - The Need for Containers
+    *   Chapter 2: Dockerizing Python - Writing Efficient Dockerfiles and Multi-Stage Builds
+    *   Chapter 3: Managing Dependencies - Poetry, pip-tools, and Reproducible Builds
+    *   Chapter 4: Orchestrating Services - Docker Compose for Python, Redis, and Postgres
+    *   Chapter 5: GPU Containers - Setting up NVIDIA Container Toolkit for AI Workloads
+*   **Part 2: The Cloud Computer - AWS and Serverless**
+    *   Chapter 6: Introduction to the Cloud - IAM, S3, and EC2 Basics via Boto3
+    *   Chapter 7: Serverless Python - AWS Lambda and Azure Functions
+    *   Chapter 8: Event-Driven Architecture - SQS, SNS, and Triggers
+    *   Chapter 9: API Gateway - Exposing Serverless Functions to the World
+    *   Chapter 10: Monitoring the Cloud - CloudWatch, Logging, and X-Ray Tracing
+*   **Part 3: Kubernetes for Python Developers**
+    *   Chapter 11: The Orchestrator - Understanding Pods, Deployments, and Services
+    *   Chapter 12: Declaring State - YAML Configurations vs. Python Clients
+    *   Chapter 13: Scalability - Horizontal Pod Autoscaling (HPA) with Python Apps
+    *   Chapter 14: Managing Secrets - Safely Injecting Credentials into Clusters
+    *   Chapter 15: Helm Charts - Packaging Python Applications for Kubernetes
+*   **Part 4: LLMOps - Serving AI and Infrastructure as Code**
+    *   Chapter 16: Serving Large Models - Introduction to vLLM and TorchServe
+    *   Chapter 17: Vector Database Infrastructure - Deploying Chroma/Weaviate on Kubernetes
+    *   Chapter 18: AIOps - Using AI to Analyze Logs and Detect Anomalies (Self-Healing Infrastructure)
+    *   Chapter 19: Infrastructure as Software - Using Pulumi to Provision Cloud Resources with Python
+    *   Chapter 20: The Capstone - Building a Scalable 'Private ChatGPT' Platform on AWS
+</details>
+
 ---
 
 ## ⚠️ Note on Volume 5 (Bleeding Edge)
