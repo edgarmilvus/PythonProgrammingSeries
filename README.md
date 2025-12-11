@@ -23,7 +23,7 @@ The code is organized by Volume and Chapter.
 Click on the arrows below to expand the Table of Contents for each volume.
 
 <details>
-<summary><b>📘 Volume 1: The Foundations of Python</b></summary>
+<summary><b>📘 Book 1: The Foundations of Python</b></summary>
 <br>
 <i>From "Hello World" to your first interactive program. The absolute basics.</i>
 
@@ -54,7 +54,7 @@ Click on the arrows below to expand the Table of Contents for each volume.
 </details>
 
 <details>
-<summary><b>📗 Volume 2: Data Structures and the Standard Library</b></summary>
+<summary><b>📗 Book 2: Data Structures and the Standard Library</b></summary>
 <br>
 <i>Mastering lists, dictionaries, and the vast Python Standard Library.</i>
 
@@ -85,7 +85,7 @@ Click on the arrows below to expand the Table of Contents for each volume.
 </details>
 
 <details>
-<summary><b>📙 Volume 3: Web Development with Python (Flask)</b></summary>
+<summary><b>📙 Book 3: Web Development with Python (Flask)</b></summary>
 <br>
 <i>Building dynamic websites, APIs, and database-driven applications.</i>
 
@@ -116,7 +116,7 @@ Click on the arrows below to expand the Table of Contents for each volume.
 </details>
 
 <details>
-<summary><b>📕 Volume 4: Advanced Python & AI Integration</b></summary>
+<summary><b>📕 Book 4: Advanced Python & AI Integration</b></summary>
 <br>
 <i>Metaprogramming, AsyncIO, and building AI Agents with LangChain.</i>
 
@@ -147,7 +147,7 @@ Click on the arrows below to expand the Table of Contents for each volume.
 </details>
 
 <details open>
-<summary><b>🚀 Volume 5: Google Gemini 3 Programming (NEW)</b></summary>
+<summary><b>🚀 Book 5: Google Gemini 3 Programming (NEW)</b></summary>
 <br>
 <i>Status: Bleeding Edge (Preview Models).</b> Covers Nano Banana Pro, Veo 3.1, Lyria, and Computer Use.</i>
 
@@ -190,7 +190,7 @@ Click on the arrows below to expand the Table of Contents for each volume.
 
 
 <details open>
-<summary><b>🤖 Volume 6: Python AI Autonomous Agents</b></summary>
+<summary><b>🤖 Book 6: Python AI Autonomous Agents</b></summary>
 <br>
 <i>Focus: Architecting Intelligence.</b> Covers CrewAI, LangGraph, Vector Memory, Swarms, and Production Deployment.</i>
 
