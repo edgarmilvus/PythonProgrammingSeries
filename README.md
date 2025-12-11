@@ -222,34 +222,34 @@ Click on the arrows below to expand the Table of Contents for each volume.
 
 
 <details>
-<summary><b>📘 Book 7: Python AI Autonomous Agents</b></summary>
+<summary><b>📘 Book 7: Python for Finance & AI Trading</b></summary>
 <br>
-<i>From single agents to complex swarms. Building intelligent, autonomous systems in Python.</i>
+<i>Mastering financial data, building AI-driven trading strategies, and executing them.</i>
 
-*   **Part 1: The Rise of the Agents - From Chatbots to Workers**
-    *   Chapter 1: Beyond the Prompt - What Are Autonomous Agents?
-    *   Chapter 2: The Cognitive Architecture - Memory, Planning, and Tools
-    *   Chapter 3: The Tool Belt - Connecting LLMs to APIs, Files, and the Web
-    *   Chapter 4: Reasoning Loops - Chain of Thought (CoT) and ReAct Patterns
-    *   Chapter 5: Building Your First Single Agent - A Research Assistant
-*   **Part 2: Orchestrating Swarms - Multi-Agent Systems**
-    *   Chapter 6: Introduction to Multi-Agent Systems (MAS) - Manager vs. Worker
-    *   Chapter 7: Using CrewAI - Role-Playing Agents and Task Delegation
-    *   Chapter 8: Using LangGraph - Building Cyclic State Graphs for Complex Logic
-    *   Chapter 9: Consensus and Critique - How Agents Review Each Other's Work
-    *   Chapter 10: Handling State and History - Long-term Persistence for Agents
-*   **Part 3: Advanced Capabilities - Memory and Learning**
-    *   Chapter 11: Vector Memory - RAG for Agents (The Hippocampus)
-    *   Chapter 12: Self-Correction - Implementing Reflection and Error Recovery
-    *   Chapter 13: Human-in-the-Loop - Approval Steps and Interruption Patterns
-    *   Chapter 14: Browser Agents - Automating the Web with Selenium and AI
-    *   Chapter 15: Coding Agents - Building an Agent That Writes and Tests Code
-*   **Part 4: Deployment and The Future - Production Agents**
-    *   Chapter 16: Tracing and Debugging - Observability with LangSmith
-    *   Chapter 17: Security for Agents - Preventing Prompt Injection and Rogue Loops
-    *   Chapter 18: Deploying Agents - API Wrappers and Asynchronous Queues
-    *   Chapter 19: The Economics of Agents - Token Cost Management and Optimization
-    *   Chapter 20: The Capstone - Building a 'Software Development Agency' Swarm
+*   **Part 1: Financial Data Mastery - Pandas for Finance**
+    *   Chapter 1: The Ticker - Fetching Stock and Crypto Data with yfinance and CCXT
+    *   Chapter 2: Time Series Deep Dive - Resampling, Rolling Windows, and OHLC Data
+    *   Chapter 3: Financial Visualization - Candlestick Charts and Volume Plots with mplfinance
+    *   Chapter 4: The Returns - Calculating Log Returns, Volatility, and CAGR
+    *   Chapter 5: Correlation and Heatmaps - Understanding Asset Relationships
+*   **Part 2: The AI Financial Analyst - LLMs and NLP**
+    *   Chapter 6: Financial NLP - Introduction to FinBERT and Sentiment Analysis
+    *   Chapter 7: RAG for Finance - Chatting with PDF Annual Reports (10-K Filings)
+    *   Chapter 8: News Intelligence - Summarizing Real-Time Market News with LangChain
+    *   Chapter 9: Earnings Calls Analysis - Transcribing and Analyzing Audio with OpenAI Whisper
+    *   Chapter 10: The AI Advisor - Building a Portfolio Recommender with GPT-4
+*   **Part 3: The Strategy Engine - Backtesting & Math**
+    *   Chapter 11: Technical Indicators - Moving Averages, RSI, and MACD Calculation
+    *   Chapter 12: The Philosophy of Backtesting - Look-ahead Bias and Overfitting
+    *   Chapter 13: Vectorized Backtesting - Fast Strategy Testing with Pandas
+    *   Chapter 14: Optimization - Finding the Best Parameters without Curve Fitting
+    *   Chapter 15: Portfolio Management - Modern Portfolio Theory and the Efficient Frontier
+*   **Part 4: Algorithmic Execution - The Hybrid Trader**
+    *   Chapter 16: Connecting to Exchanges - API Keys, Rate Limits, and Security
+    *   Chapter 17: Order Types - Market, Limit, Stop-Loss, and Trailing Stops
+    *   Chapter 18: Risk Management - Position Sizing and Kelly Criterion
+    *   Chapter 19: Sentiment-Based Trading - Executing Trades Based on AI News Analysis
+    *   Chapter 20: The Capstone - Building a 'News + Math' Crypto Trading Bot
 </details>
 
 <details>
