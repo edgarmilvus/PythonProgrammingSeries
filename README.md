@@ -295,7 +295,7 @@ Some models referenced (e.g., `gemini-3-preview`, `nano-banana-pro`) are in acti
 
 ## © Copyright
 
-**Copyright © 2025 by Edgar Milvus.**
+**Copyright © 2026 by Edgar Milvus.**
 All rights reserved. The code in this repository is for educational purposes.
 
 [Visit the Amazon Series Page](https://tinyurl.com/PythonProgrammingSeries) 
