@@ -8,9 +8,6 @@
 Welcome to the official repository for the **Python Programming Series** by **Edgar Milvus**.
 This repository contains all the source code, exercises, solution files, and architectural diagrams found in the books.
 
-**📚 [Get the Books on Amazon](https://tinyurl.com/PythonProgrammingSeries)**
-or on [Linpub.com better, offers also volume discounts](https://leanpub.com/u/edgarmilvus)
-
 Get the books on [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, preferably, on [Linpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
 
 ---
@@ -288,13 +285,6 @@ Click on the arrows below to expand the Table of Contents for each volume.
 </details>
 
 ---
-
-## ⚠️ Note on Volume 5 (Bleeding Edge)
-
-Volume 5 targets the **Gemini 3 Preview** ecosystem.
-Some models referenced (e.g., `gemini-3-preview`, `nano-banana-pro`) are in active development.
-*   **Updates:** Check this repository frequently for `addendum_vX.pdf` or updated scripts as Google releases stable API tags.
-*   **Requirements:** This volume requires Python 3.11+ and a valid Google Cloud Project with the GenAI API enabled.
 
 ## © Copyright
 
