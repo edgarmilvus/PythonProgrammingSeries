@@ -10,6 +10,9 @@ This repository contains all the source code, exercises, solution files, and arc
 
 **📚 [Get the Books on Amazon](https://tinyurl.com/PythonProgrammingSeries)**
 or on [Linpub.com better, offers also volume discounts](https://leanpub.com/u/edgarmilvus)
+
+Get the books on [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, preferably, on [Linpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
+
 ---
 
 ## 📂 Repository Structure
