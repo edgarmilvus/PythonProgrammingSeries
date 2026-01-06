@@ -290,6 +290,4 @@ Click on the arrows below to expand the Table of Contents for each volume.
 
 **Copyright © 2026 by Edgar Milvus.**
 All rights reserved. The code in this repository is for educational purposes.
-
-[Visit the Amazon Series Page](https://tinyurl.com/PythonProgrammingSeries) 
-or [link 2](https://www.amazon.com/dp/B0FTTQNXKG) 
+Get the books on [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, preferably, on [Linpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
