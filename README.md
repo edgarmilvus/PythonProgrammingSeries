@@ -1,12 +1,11 @@
 # 🐍 The Python Programming Series
 ### Official Code Repository
 
-[![Amazon Series](https://img.shields.io/badge/Amazon-Buy_The_Series-orange?style=for-the-badge&logo=amazon)](https://tinyurl.com/PrythomProgrammingSeries)
 [![Python Version](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 Welcome to the official repository for the **Python Programming Series** by **Edgar Milvus**.
-This repository contains all the source code, exercises, solution files, and architectural diagrams found in the books.
+This repository contains all the source code, exercises and solution files found in the books.
 
 Get the books on [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, preferably, on [Linpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
 
