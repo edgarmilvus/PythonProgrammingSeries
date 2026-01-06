@@ -8,8 +8,8 @@
 Welcome to the official repository for the **Python Programming Series** by **Edgar Milvus**.
 This repository contains all the source code, exercises, solution files, and architectural diagrams found in the books.
 
-**📚 [Get the Books on Amazon](https://tinyurl.com/PrythomProgrammingSeries)**
-or [link 2](https://www.amazon.com/dp/B0FTTQNXKG) 
+**📚 [Get the Books on Amazon](https://tinyurl.com/PythonProgrammingSeries)**
+or on [Linpub.com better, offers also volume discounts](https://leanpub.com/u/edgarmilvus)
 ---
 
 ## 📂 Repository Structure
