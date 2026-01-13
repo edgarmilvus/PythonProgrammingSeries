@@ -9,6 +9,8 @@ This repository contains all the source code, exercises and solution files found
 
 Get the books on [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, preferably, on [Linpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
 
+Blog with tips, trick pitfalls, news, new books: [https://programmingcentral.hashnode.dev/](https://programmingcentral.hashnode.dev/)
+Subscribe to my weekly Python newsletter on Substack: [https://edgarmilvus.substack.com](https://edgarmilvus.substack.com)
 ---
 
 ## 📂 Repository Structure
