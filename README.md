@@ -7,7 +7,7 @@
 Welcome to the official repository for the **Python Programming Series** by **Edgar Milvus**.
 This repository contains all the source code, exercises and solution files found in the books.
 
-Get the books on [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, preferably, on [Linpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
+Get the books on [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, preferably on [Linpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
 
 ---
 
