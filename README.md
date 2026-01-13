@@ -12,6 +12,7 @@ Get the books on [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, prefe
 ---
 
 Blog with tips, trick pitfalls, news, new books: [https://programmingcentral.hashnode.dev/](https://programmingcentral.hashnode.dev/)
+
 Subscribe to my weekly Python newsletter on Substack: [https://edgarmilvus.substack.com](https://edgarmilvus.substack.com)
 
 ---
