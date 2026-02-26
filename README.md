@@ -289,7 +289,7 @@ Click on the arrows below to expand the Table of Contents for each volume.
     *   Chapter 20: The Capstone - Building a Scalable 'Private ChatGPT' Platform on AWS
 </details>
 
-Get the books on [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, preferably, on [Linpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
+Get the books on [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, preferably, on [Leanpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
 
 [Series Blog](https://programmingcentral.hashnode.dev/series/python-programming)
 
