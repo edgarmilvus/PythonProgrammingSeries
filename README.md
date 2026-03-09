@@ -1,7 +1,6 @@
 # 🐍 The Python Programming Series
 ### Official Code Repository
 
-[![Python Version](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 Welcome to the official repository for the **Python Programming Series** by **Edgar Milvus**.
@@ -12,8 +11,6 @@ Get the books on [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, prefe
 ---
 
 Blog with tips, trick pitfalls, news, new books: [https://programmingcentral.hashnode.dev/](https://programmingcentral.hashnode.dev/)
-
-Subscribe to my weekly Python newsletter on Substack: [https://programmingcentral.substack.com](https://programmingcentral.substack.com)
 
 ---
 
