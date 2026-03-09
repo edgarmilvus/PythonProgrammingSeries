@@ -1,4 +1,4 @@
-# 🐍 The Python Programming Series
+# 🐍 The Python & AI Masterclass Series
 ### Official Code Repository
 
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
@@ -7,22 +7,6 @@ Welcome to the official repository for the **Python Programming Series** by **Ed
 This repository contains all the source code, exercises and solution files found in the books.
 
 Get the books on [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, preferably on [Linpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
-
----
-
-Blog with tips, trick pitfalls, news, new books: [https://programmingcentral.hashnode.dev/](https://programmingcentral.hashnode.dev/)
-
----
-
-## 📂 Repository Structure
-
-The code is organized by Volume and Chapter. 
-
----
-
-Ecco una versione in formato Markdown (.md) ottimizzata per la leggibilità, con l'aggiunta di icone e una struttura chiara per valorizzare il contenuto.
-
----
 
 # Your Complete Mission Manual for Mastering Python
 > **From Your First Line of Code to Building Advanced AI**
