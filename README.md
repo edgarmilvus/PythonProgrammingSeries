@@ -86,9 +86,8 @@ Get the books on [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, prefe
 
 ---
 
-# Other programming series:
+# Other programming & AI series:
 
-[Python & AI Series](https://github.com/edgarmilvus/PythonProgrammingSeries) 
 
 [Android & Kotlin AI Series](https://github.com/edgarmilvus/AndroidKotlinAIProgrammingSeries)
 
@@ -100,10 +99,9 @@ Get the books on [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, prefe
 
 [Rust & AI Series](https://github.com/edgarmilvus/RustAIProgrammingSeries)
 
+[Python & AI Series](https://github.com/edgarmilvus/PythonProgrammingSeries) 
 
  
-
-
  
 ## © Copyright
 
