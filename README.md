@@ -6,7 +6,7 @@
 Welcome to the official repository for the **Python Programming Series** by **Edgar Milvus**.
 This repository contains all the source code, exercises and solution files found in the books.
 
-Get the books on <!-- [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, preferably --> on [Leanpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
+Get the books <!-- [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, preferably --> on [Leanpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
 
 # Your Complete Mission Manual for Mastering Python
 > **From Your First Line of Code to Building Advanced AI**
@@ -78,11 +78,9 @@ This is not just a collection of books; it is a **hands-on training program**. E
 
 Begin your journey today and transform from a learner into a master developer.
 
-Get the books on [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, preferably, on [Leanpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
+Get the books on [Leanpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
 
 [Series Blog](https://programmingcentral.hashnode.dev/series/python-programming)
-
-
 
 ---
 
