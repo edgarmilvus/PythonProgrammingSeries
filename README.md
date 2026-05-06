@@ -70,8 +70,12 @@ This is not just a collection of books; it is a **hands-on training program**. E
     *   Analyze satellite imagery and map the world with deep learning.
 *   **Volume 15: Astrophysics & AI**
     *   Simulate orbital mechanics and deploy autonomous agents to mine the cosmos.
+ 
+### 🌌 Phase 6: Fine-Tuning
 *   **Volume 16: Open-Source LLMs & Local Fine-Tuning**
     *    Mastering LoRA, vLLM, Ollama, and Custom SLMs
+*   **Volume 17: Unsloth: Efficient Fine-Tuning for Large Language Models**
+    *   Methods and Workflows for Fine-Tuning and Deploying Large Language Models on Limited Hardware.
  
 ## 🎯 Start Your Journey
 **Stop guessing. Start building.**
