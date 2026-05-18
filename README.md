@@ -71,7 +71,7 @@ This is not just a collection of books; it is a **hands-on training program**. E
 *   **Volume 15: Astrophysics & AI**
     *   Simulate orbital mechanics and deploy autonomous agents to mine the cosmos.
  
-### 🌌 Phase 6: Fine-Tuning
+### 🌌 Phase 6: Fine-Tuning & Agents
 *   **Volume 16: Open-Source LLMs & Local Fine-Tuning**
     *    Mastering LoRA, vLLM, Ollama, and Custom SLMs
 *   **Volume 17: Unsloth: Efficient Fine-Tuning for Large Language Models**
