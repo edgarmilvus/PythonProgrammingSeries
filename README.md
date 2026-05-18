@@ -76,7 +76,10 @@ This is not just a collection of books; it is a **hands-on training program**. E
     *    Mastering LoRA, vLLM, Ollama, and Custom SLMs
 *   **Volume 17: Unsloth: Efficient Fine-Tuning for Large Language Models**
     *   Methods and Workflows for Fine-Tuning and Deploying Large Language Models on Limited Hardware.
- 
+*   **Volume 18: Hermes Agent: The Self-Evolving AI Workforce**
+    *   Architecting Autonomous Systems that Learn, Remember, and Grow
+
+
 ## 🎯 Start Your Journey
 **Stop guessing. Start building.**
 
