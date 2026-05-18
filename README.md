@@ -4,9 +4,9 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 Welcome to the official repository for the **Python Programming Series** by **Edgar Milvus**.
-This repository contains all the source code, exercises and solution files found in the books.
+This repository contains all the source code, exercises and solution files found in the ebooks.
 
-Get the books <!-- [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, preferably --> on [Leanpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
+Get the ebooks <!-- [Amazon](https://tinyurl.com/PythonProgrammingSeries) or, preferably --> on [Leanpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
 
 # Your Complete Mission Manual for Mastering Python
 > **From Your First Line of Code to Building Advanced AI**
@@ -17,8 +17,8 @@ The **Python Programming Masterclass Series** is your structured roadmap to brid
 
 ---
 
-## 🚀 More Than Just Books
-This is not just a collection of books; it is a **hands-on training program**. Every volume is crafted to ensure deep understanding and practical application:
+## 🚀 More Than Just eBooks
+This is not just a collection of ebooks; it is a **hands-on training program**. Every volume is crafted to ensure deep understanding and practical application:
 
 *   🖼️ **Crystal-Clear Diagrams**: Visual guides to help you mentally map complex concepts and architectures.
 *   💪 **Muscle Memory Exercises**: Practical challenges designed to reinforce every new skill you learn.
@@ -85,7 +85,7 @@ This is not just a collection of books; it is a **hands-on training program**. E
 
 Begin your journey today and transform from a learner into a master developer.
 
-Get the books on [Leanpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
+Get the ebooks on [Leanpub.com](https://leanpub.com/u/edgarmilvus), which also offers volume discounts.
 
 [Series Blog](https://programmingcentral.hashnode.dev/series/python-programming)
 
