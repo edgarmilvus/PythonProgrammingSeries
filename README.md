@@ -102,9 +102,9 @@ Get the ebooks on [Leanpub.com](https://leanpub.com/u/edgarmilvus), which also o
 
 ## Python
 
-[Python Programming: The Foundations of Python](https://leanpub.com/PythonProgrammingFoundations)
+[The Foundations of Python](https://leanpub.com/PythonProgrammingFoundations)
 
-[Python Programming: Data Structures and the Standard Library](https://leanpub.com/PythonDataStructures)
+[Data Structures and the Standard Library](https://leanpub.com/PythonDataStructures)
 
 [Web Development with Python](https://leanpub.com/WebDevelopmentWithPython)
 Building backend services and dynamic websites with a framework like Flask
@@ -159,19 +159,19 @@ Inspecting Neural Circuits, Steering Vectors, Autonomous Capability Evals, and S
 
 ## JavaScript & TypeScript
 
-[AI with JavaScript & TypeScript: Foundations](https://leanpub.com/AIwithJavascriptTypescript)
+[Foundations](https://leanpub.com/AIwithJavascriptTypescript)
 OpenAI API, Zod, and LangChain.js
 
-[AI with JavaScript & TypeScript: The Modern Stack](https://leanpub.com/ModernStackGenerativeUITypescriptJS)
+[The Modern Stack](https://leanpub.com/ModernStackGenerativeUITypescriptJS)
 Building Generative UI with Next.js, Vercel AI SDK, and React Server Components.
 
-[AI with JavaScript & TypeScript: Master Your Data](https://leanpub.com/RAGVectorDatabasesJSTypescript)
+[Master Your Data](https://leanpub.com/RAGVectorDatabasesJSTypescript)
 Production RAG, Vector Databases, and Enterprise Search.
 
-[AI with JavaScript & TypeScript: Autonomous Agents](https://leanpub.com/JSTypescriptAutonomousAgents)
+[Autonomous Agents](https://leanpub.com/JSTypescriptAutonomousAgents)
 Building Multi-Agent Systems and Workflows with LangGraph.js
 
-[AI with JavaScript & TypeScript: The Edge of AI](https://leanpub.com/EdgeOfAIJavaScriptTypeScript)
+[The Edge of AI](https://leanpub.com/EdgeOfAIJavaScriptTypeScript)
 Local LLMs (Ollama), Transformers.js, WebGPU, and Performance Optimization
 
 [The AI-Ready SaaS Boilerplate. Auth, Database with Vector Support, and Payment Stack](https://leanpub.com/AIReadySaaSBoilerplate)
@@ -186,7 +186,7 @@ Stripe, Smart Dunning, and AI Customer Support Agents.
 [AI-Driven Growth Engineering. Programmatic SEO with GPT-4, Content Automation, and Analytics.](https://leanpub.com/GrowthEngineering)
 Programmatic SEO with GPT-4, Content Automation, and Analytics.
 
-[No More Localhost. Mastering Docker, Linux, and Containerization for JS & AI Apps](https://leanpub.com/JSDocker
+[No More Localhost. Mastering Docker, Linux, and Containerization for JS & AI Apps](https://leanpub.com/JSDocker)
 Mastering Docker, Linux, and Containerization for JS & AI Apps.
 
 [The Perfect Pipeline. Advanced CI/CD with GitHub Actions, Automated Testing, and AI Code Reviews](https://leanpub.com/JSPipeline)
@@ -241,39 +241,39 @@ Passkeys, Supply Chain Defense, and Zero-Trust Architectures.
 [Spatial Web Development. Building Interactive 3D and WebXR Experiences with React Three Fiber & TypeScript](https://leanpub.com/SpatialWeb)
 Building Interactive 3D and WebXR Experiences with React Three Fiber & TypeScript.
 
-[Multiple-choice test book for: AI with JavaScript & TypeScript: Foundations (Volume 1)](https://leanpub.com/AIwithJavascriptTypescriptTest)
+[Multiple-choice test book for: Foundations (Volume 1)](https://leanpub.com/AIwithJavascriptTypescriptTest)
 
 ---
 
 ## C# / .NET
 
-[C# & AI Masterclass: The Foundations](https://leanpub.com/CSharpFoundations)
+[The Foundations](https://leanpub.com/CSharpFoundations)
 Syntax, Type System, and Logic for Modern Developers.
 
-[C# & AI Masterclass: Advanced OOP & AI Data Structures](https://leanpub.com/CSharpAdvancedOOP)
+[Advanced OOP & AI Data Structures](https://leanpub.com/CSharpAdvancedOOP)
 Modeling Complex Systems and Tensors.
 
-[C# & AI Masterclass: Data Manipulation, LINQ & Vectors](https://leanpub.com/CSharpDataManipulation)
+[Data Manipulation, LINQ & Vectors](https://leanpub.com/CSharpDataManipulation)
 From Collections to AI Embeddings
 
-[C# & AI Masterclass: Asynchronous AI Pipelines](https://leanpub.com/CSharpAsynchronousAIPipelines)
+[Asynchronous AI Pipelines](https://leanpub.com/CSharpAsynchronousAIPipelines)
 Async/Await, Parallelism, and Streaming LLM Responses.
 
-[C# & AI Masterclass: Building AI Web APIs with ASP](https://leanpub.com/ASPNETCSharp)
+[Building AI Web APIs with ASP](https://leanpub.com/ASPNETCSharp)
 NET Core. Serving Models and Chat Endpoints
 
-[C# & AI Masterclass: Intelligent Data Access with EF Core](https://leanpub.com/IntelligentDataAccessCSharp)
+[Intelligent Data Access with EF Core](https://leanpub.com/IntelligentDataAccessCSharp)
 Vector Databases, RAG, and Memory Storage.
 
-[C# & AI Masterclass: Cloud-Native AI & Microservices](https://leanpub.com/CloudNativeAICSharp)
+[Cloud-Native AI & Microservices](https://leanpub.com/CloudNativeAICSharp)
 Containerizing Agents and Scaling Inference.
 
-[C# & AI Masterclass: The Core of AI Engineering: Microsoft Semantic Kernel & Agentic Patterns](https://leanpub.com/MicrosoftSemanticKernelCSharp)
+[The Core of AI Engineering: Microsoft Semantic Kernel & Agentic Patterns](https://leanpub.com/MicrosoftSemanticKernelCSharp)
 
-[C# & AI Masterclass: Edge AI & Local Inference](https://leanpub.com/EdgeAILocalInferenceCSharp)
+[Edge AI & Local Inference](https://leanpub.com/EdgeAILocalInferenceCSharp)
 Running LLMs (Llama/Phi) locally with C# and ONNX.
 
-[C# & AI Masterclass: High-Performance C# for AI](https://leanpub.com/HighPerformanceCSharp)
+[High-Performance C# for AI](https://leanpub.com/HighPerformanceCSharp)
 Span<T>, SIMD, and Optimizing Token Processing
 
 [Full Stack AI with Blazor. Building Interactive Copilots and WASM AI](https://leanpub.com/BlazorCSharp)
@@ -330,6 +330,17 @@ Optimizing hardware acceleration via NPU, GPU, and DSP. Advanced quantization an
 Building autonomous apps that use Tool Calling, Function Injection, and Screen Awareness to perform tasks for the user
 
 ---
+
+## Rust
+
+[Rust Advanced Memory Patterns for AI](https://leanpub.com/RustAdvancedMemoryPatternsAI)
+Mastering Lifetimes, Smart Pointers, and custom allocators for managing large models and datasets
+
+[Extending Python with Rust. Creating high-performance Python modules with PyO3 for data processing, tokenization, and inference, replacing slow Python code.](https://leanpub.com/PythonRust)
+Creating high-performance Python modules with PyO3 for data processing, tokenization, and inference, replacing slow Python code.
+
+---
+
 
 ## Rust
 
