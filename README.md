@@ -281,7 +281,7 @@ Building autonomous apps that use Tool Calling, Function Injection, and Screen A
 [Rust Advanced Memory Patterns for AI](https://leanpub.com/RustAdvancedMemoryPatternsAI)
 Mastering Lifetimes, Smart Pointers, and custom allocators for managing large models and datasets
 
-[Extending Python with Rust. Creating high-performance Python modules with PyO3 for data processing, tokenization, and inference, replacing slow Python code.](https://leanpub.com/PythonRust)
+[Extending Python with Rust. Creating high-performance Python modules with PyO3](https://leanpub.com/PythonRust)
 Creating high-performance Python modules with PyO3 for data processing, tokenization, and inference, replacing slow Python code.
 
 ---
